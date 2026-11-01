@@ -35,7 +35,7 @@ const data = {
     },
     {
       title: "ProjectTrace",
-      url: "#",
+      url: "/dashboard/ProjectTrace",
       icon: (
         <BotIcon
         />
@@ -43,7 +43,7 @@ const data = {
     },
     {
       title: "BudgetLens",
-      url: "#",
+      url: "/dashboard/BudgetLens",
       icon: (
         <BookOpenIcon
         />

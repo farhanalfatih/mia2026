@@ -57,8 +57,6 @@ export default function ProjectTracePage() {
       <div className="flex flex-col justify-between gap-4 sm:flex-row sm:items-center">
         <div className="space-y-1">
           <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <FolderKanban className="size-4" />
-            Openara / Projects
           </div>
 
           <h1 className="text-2xl font-semibold tracking-tight">
